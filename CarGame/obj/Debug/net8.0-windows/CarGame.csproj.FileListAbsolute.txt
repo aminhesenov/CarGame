@@ -1,0 +1,17 @@
+D:\C# lesson\CarGame\CarGame\bin\Debug\net8.0-windows\CarGame.exe
+D:\C# lesson\CarGame\CarGame\bin\Debug\net8.0-windows\CarGame.deps.json
+D:\C# lesson\CarGame\CarGame\bin\Debug\net8.0-windows\CarGame.runtimeconfig.json
+D:\C# lesson\CarGame\CarGame\bin\Debug\net8.0-windows\CarGame.dll
+D:\C# lesson\CarGame\CarGame\bin\Debug\net8.0-windows\CarGame.pdb
+D:\C# lesson\CarGame\CarGame\obj\Debug\net8.0-windows\CarGame.Form1.resources
+D:\C# lesson\CarGame\CarGame\obj\Debug\net8.0-windows\CarGame.Properties.Resources.resources
+D:\C# lesson\CarGame\CarGame\obj\Debug\net8.0-windows\CarGame.csproj.GenerateResource.cache
+D:\C# lesson\CarGame\CarGame\obj\Debug\net8.0-windows\CarGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# lesson\CarGame\CarGame\obj\Debug\net8.0-windows\CarGame.AssemblyInfoInputs.cache
+D:\C# lesson\CarGame\CarGame\obj\Debug\net8.0-windows\CarGame.AssemblyInfo.cs
+D:\C# lesson\CarGame\CarGame\obj\Debug\net8.0-windows\CarGame.csproj.CoreCompileInputs.cache
+D:\C# lesson\CarGame\CarGame\obj\Debug\net8.0-windows\CarGame.dll
+D:\C# lesson\CarGame\CarGame\obj\Debug\net8.0-windows\refint\CarGame.dll
+D:\C# lesson\CarGame\CarGame\obj\Debug\net8.0-windows\CarGame.pdb
+D:\C# lesson\CarGame\CarGame\obj\Debug\net8.0-windows\CarGame.genruntimeconfig.cache
+D:\C# lesson\CarGame\CarGame\obj\Debug\net8.0-windows\ref\CarGame.dll
